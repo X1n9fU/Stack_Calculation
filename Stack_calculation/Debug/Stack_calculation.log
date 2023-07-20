@@ -1,0 +1,6 @@
+﻿  Stack.cpp
+C:\Users\82107\source\repos\Stack_calculation\Stack_calculation\Stack.cpp(421,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82107\source\repos\Stack_calculation\Stack_calculation\Stack.cpp(428,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82107\source\repos\Stack_calculation\Stack_calculation\Stack.cpp(436,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82107\source\repos\Stack_calculation\Stack_calculation\Stack.cpp(443,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Stack_calculation.vcxproj -> C:\Users\82107\source\repos\Stack_calculation\Debug\Stack_calculation.exe
